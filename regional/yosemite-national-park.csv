@@ -1,0 +1,10 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+0,,146.010000,,0.600000,,88.5,88.5,023,NN,FM,5.00,,,,,,
+1,Turtleback Dome W6BXN,147.000000,+,0.000100,,88.5,88.5,023,NN,FM,5.00,,,,,,
+2,YNP Park Net Hof,172.650000,split,171.650000,Tone,131.8,88.5,023,NN,FM,5.00,,,,,,
+3,YNP Park Net,172.650000,split,172.025000,,88.5,88.5,023,NN,FM,5.00,,,,,,
+4,Valley Net,166.300000,split,164.425000,,88.5,88.5,023,NN,FM,5.00,,,,,,
+5,Law Net,166.850000,split,171.825000,,88.5,88.5,023,NN,FM,5.00,,,,,,
+6,Fire Net,172.775000,split,166.362500,,88.5,88.5,023,NN,FM,5.00,,,,,,
+7,YNP Common (Project Net),168.350000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,,,,,
+8,YNP Traffic,163.100000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,,,,,
